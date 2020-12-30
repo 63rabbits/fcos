@@ -1,0 +1,11 @@
+variant: fcos
+version: 1.2.0
+passwd:
+  users:
+    - name: coreos
+      password_hash: "$6$GcZb3YKKXL2hdyYD$OIV.bqP9S4yc5y.7glkogfJVBf7wkL1PpHfaQRIvWkCee029Nrt2HZQNwXNQj5r.Lk2xMLIhLrT3utQd5943F."
+      # password = hogehoge
+      ssh_authorized_keys:
+        - "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC6zKMKI3iFxwyOiqckIHvPZV7kPsuW1UmYMUZ9ODGBsaaMpg/ocshjcsqcBCgRrLWJqbIiMPqe1+IfHZK6A/zHs8xlFeV6kH8j0oZSAINVgwFRlLCpFxNh5T0Bq7rTQ6Oh2bLz0ltdLLwlZh0TqXAxCmpCpo4x0F+Ui/GYwZQjMkae1IGDzY4w1/+/x2jIsL/IXl5wGHr/+ZVAqayZiW9LuicZacqfSBlY0vp3WR4T2Qb+D2VzbgEK3xdyDpQ1MrlW5zOo51L5LP95JBJgAa1DwEzGV1TSokzX8+fAvwo63NsKjvVU1rsJmmZOtPbgcjOqv1++xd3Uj68qB4ZDOXpyw05eUWUf0Zl9XPlIQFtZp+qRJE/pzjlougGDs0Dzza6b2r7xoNLOnqXqT4Wv+lRqrghwQ1GkrCcHCxlAe5JbqbbYQhSq2SUfS8jMiyLd043XlJGCSdRoes87xkkvNWDDTyTuX/zsEmZy5m2y6t+kdDwRKJ1AI9chnbLaPykiIG8="
+      # passphrase = system
+      groups: [ sudo, docker ]
