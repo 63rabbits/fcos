@@ -10,6 +10,7 @@
           "docker"
         ],
         "name": "core",
+        "passwordHash": "$6$GcZb3YKKXL2hdyYD$OIV.bqP9S4yc5y.7glkogfJVBf7wkL1PpHfaQRIvWkCee029Nrt2HZQNwXNQj5r.Lk2xMLIhLrT3utQd5943F.",
         "sshAuthorizedKeys": [
           "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC94b4KKLKujeOsiTiQcQt7n7bJdR8OSL8TlTJAarVr06L+JIVq85MvXyGWmfXKxnNAbFBgLk63DoFTgFSO2RaYQmvgUNbjRpPPAfbUYJip2W21U7AhQWtF8w0xLweICZvN38dJEITzO1NljNXLI1HsG4aemXoD6J5oQfwqebwWeUMdCP7v6TpDOq7XKpNuYu/kbU3VI+gdrqHeR1HNPzsiwwizWOPFA/vDoIxoSFSwQ2niyCjVI64fRzfJaRaY98s1N1boX8ivCxNtkfqO6V47MBOFUSn63sw5x7DAUkSxLmGs8qq+G1w/ZXfpzQk2S+2lnpOrybZfiBPuHRHmwy5P/2Oaj7OAq4jzrOggSKMQiOJMZ++z+9itCdsqFf1oFh7y337/EIx3tDNok9F106CRi0T9+x1xAxTea7VfD7A22tYnDjrVJlxVO5EsmanBEFMJ/cTTEJQMpoSDIcUgyRNCQHnr/K+EuY1PeAYcZkieG46gOBXLUn9R+o0m4R1eqMeI3wlEYhLJeZCOUihiwTlnzAhKtzkeFTPNpZEEkEtFPGwS9ujDysjSx2tXxxCGALG+obg5T5awvzhQq8KMe7cs/Xa1ctaMc/1FAyYGvC8EtYiBCCR1/vgGtP1EQYMRp5FGvqNLgXIAA5lkdzd0BYAY6YUziLgTC1/uoJXw+qPE3Q=="
         ]
