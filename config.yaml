@@ -2,7 +2,7 @@ variant: fcos
 version: 1.2.0
 passwd:
   users:
-    - name: coreos
+    - name: core
       # password_hash: "$6$GcZb3YKKXL2hdyYD$OIV.bqP9S4yc5y.7glkogfJVBf7wkL1PpHfaQRIvWkCee029Nrt2HZQNwXNQj5r.Lk2xMLIhLrT3utQd5943F."
       # password = hogehoge
       ssh_authorized_keys:
