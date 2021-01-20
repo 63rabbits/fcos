@@ -3,7 +3,6 @@ version: 1.2.0
 passwd:
   users:
     - name: core
-      # password_hash: "$6$Q7Gc4DAO3Mbkp.1X$CzWKpB1VCWzpwhHnpnUW9cvqd3Sz2SCykup1CHR9ZODRN7Qjjz8qtJb5cP9Mm6.F9c9Z1LkjZ13aQBdXKtfWP0"
       password_hash: "$6$aG07kdoNAi3I5em9$mKduVO9y12XaPnQBK29PtukOfLpim.TcmkPchE7vW4sU7sRF3GMR1tsen7wUVBgse2rVl7SZqe1T6j9JfS8mf."
 
       # password = hogehoge
