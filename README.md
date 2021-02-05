@@ -1,3 +1,3 @@
 # fcos
 
-Config & Ignition file for Fedora Core OS.
+Config & Ignition file for Fedora CoreOS.
